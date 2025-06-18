@@ -12,7 +12,7 @@ I've used a dictionary called expenses. This dictionary is where all financial d
 
 ## How to Run the Script
 
-1.  **download the `finance_tracker.py` from 
+1.  **download the `finance_tracker.py` from https://github.com/Sinajoy23/python-capstone-finance-tracker/blob/main/finance_tracker.py
     
 2.  **Run the Python script:**
     ```bash
