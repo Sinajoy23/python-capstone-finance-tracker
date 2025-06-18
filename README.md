@@ -4,7 +4,7 @@
 
 This is a personal finance tracker built in Python. It allows users to record their expenses, categorize them, and view summaries of their spending.
 
-I've used a dictionary called expenses. This dictionary is where all financial data entries will be stored. The keys of this dictionary are expense categories (like "food," "clothing"), and the values will be a list of tuples. Each tuple will hold a (description, amount) for an expense within that category. The keys will be categories (strings), and the values will be lists of tuples. Each tuple will represent an expense: (description_string, amount_float)
+I used a dictionary called expenses. This dictionary is where all financial data entries will be stored. The keys of this dictionary are expense categories (like "food," "clothing"), and the values will be a list of tuples. Each tuple will hold a (description, amount) for an expense within that category. The keys will be categories (strings), and the values will be lists of tuples. Each tuple will represent an expense: (description_string, amount_float)
 
 
 
